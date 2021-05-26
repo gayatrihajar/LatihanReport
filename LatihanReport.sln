@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanReport", "LatihanReport\LatihanReport.csproj", "{E5E6BFE7-8C64-4129-A18F-0C0531A53E2B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TesSetup", "TesSetup\TesSetup.vdproj", "{A229B224-FFD3-46DF-9397-659BADC7F9FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{E5E6BFE7-8C64-4129-A18F-0C0531A53E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5E6BFE7-8C64-4129-A18F-0C0531A53E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5E6BFE7-8C64-4129-A18F-0C0531A53E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A229B224-FFD3-46DF-9397-659BADC7F9FD}.Debug|Any CPU.ActiveCfg = Debug
+		{A229B224-FFD3-46DF-9397-659BADC7F9FD}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
